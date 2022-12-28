@@ -1,1 +1,1 @@
-![LOGO](https://i.ibb.co/mB5bMkD/Tabloid-1-1.png)
+[![LOGO](https://github.com/nikolaiqa/nikolaiqa/blob/main/assets/Tabloid%20-%201%20(1).png)]()

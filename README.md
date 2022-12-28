@@ -1,1 +1,1 @@
-[![logo](https://i.ibb.co/5WmGXyR/Logo.png "my blog")](https://github.com/nikolaiqa)
+[![logo](https://i.ibb.co/5WmGXyR/Logo.png " ")](https://github.com/nikolaiqa)

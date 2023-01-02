@@ -4,9 +4,9 @@
  
 ## My name is Nikolai and you can get more information about me and tools I use below:
 
-### Сheck out my [resume](https://drive.google.com/file/d/13ccjGmmKePU6CzG8RiyijSYLzqPSi40-/view?usp=sharing "ru-version")
+## Сheck out my [resume](https://drive.google.com/file/d/13ccjGmmKePU6CzG8RiyijSYLzqPSi40-/view?usp=sharing "ru-version")
 
-### My tools 
+## My tools 
 
 <a href="https://github.com/nikolaiqa/MySQL"><img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"></a>
 

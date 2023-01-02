@@ -20,9 +20,6 @@
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="VS code " title="VS code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="VS code" title="VS code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
 
-
-
-
-          
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Virtual Box" title="Virtual Box" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg"></a>

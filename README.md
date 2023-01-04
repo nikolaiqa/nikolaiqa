@@ -10,7 +10,7 @@
 
 <a href="https://github.com/nikolaiqa/MySQL"><img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a>
 
-<a href="https://github.com/nikolaiqa/Ubuntu"><img align="left" alt="Ubuntu" title="Ubuntu" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"></a>
+<a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%201%20(pwd%2C%20ls%2C%20mkdir%2C%20mv%2C%20rm).md"><img align="left" alt="Ubuntu" title="Ubuntu" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"></a>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Postman" title="Postman" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a>
 

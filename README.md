@@ -8,7 +8,7 @@
 
 ## Tools  
 
-<p> 
+<div> 
 <a href="https://github.com/nikolaiqa/MySQL"><img align="left" alt="MySQL" title="MySQL" width="35px" style="padding-right:7px; padding-top:10px;" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a>
 
 <a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%201%20(pwd%2C%20ls%2C%20mkdir%2C%20mv%2C%20rm).md"><img align="left" alt="Ubuntu" title="Ubuntu" width="35px" style="padding-right:7px; padding-top:10px;" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"></a>
@@ -38,10 +38,10 @@
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Android Studio" title="Android Studio" width="35px" style="padding-right:7px; padding-top:10px;" src="./Sourses/androidstudio-original.svg"></a>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Charles Proxy" title="Charles Proxy" width="35px" style="padding-right:7px; padding-top:10px;" src="./Sourses/charlesproxyicon.svg"></a>
-</p>
+</div>
 
-<p> 
+<div> 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Fiddler" title="Fiddler" width="35px" sstyle="padding-right:7px; padding-top:10px;" src="./Sourses/Fiddler-Everywhere.png"></a>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="DevTools" title="DevTools" width="35px" style="padding-right:7px; padding-top:10px;" src="./Sourses/chrome-devtools-icon-256x256-s41ravx1.png"></a> 
-</p>
+</div>

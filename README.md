@@ -14,7 +14,7 @@
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Postman" title="Postman" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right:10px;" src="./Sourses/mongodb-original.svg"></a>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Figma" title="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></a>
 

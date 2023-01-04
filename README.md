@@ -2,7 +2,7 @@
 
 # **`Hi there!`**
  
-## My name is Nikolai and you can get more information about me and tools I use below:
+## My name is Nikolai and you can learn more information about me and tools I use below:
 
 ## Сheck out my [resume](https://drive.google.com/file/d/13ccjGmmKePU6CzG8RiyijSYLzqPSi40-/view?usp=sharing "ru-version")
 
@@ -38,8 +38,6 @@
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Android Studio" title="Android Studio" width="35px" style="padding-right:7px;" src="./Sourses/androidstudio-original.svg"></a>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Charles Proxy" title="Charles Proxy" width="35px" style="padding-right:7px;" src="./Sourses/charlesproxyicon.svg"></a> 
-<br>
-<br>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Fiddler" title="Fiddler" width="35px" sstyle="padding-right:7px;" src="./Sourses/Fiddler-Everywhere.png"></a>
 

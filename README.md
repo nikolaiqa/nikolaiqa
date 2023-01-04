@@ -34,6 +34,8 @@
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="ADB" title="ADB" width="30px" style="padding-right:10px;" src="./Sourses/adb.svg"></a>
 
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Android Studio" title="Android Studio" width="30px" style="padding-right:10px;" src="./Sourses/androidstudio-original.svg"></a>
+
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Charles Proxy" title="Charles Proxy" width="30px" style="padding-right:10px;" src="./Sourses/charlesproxyicon.svg"></a>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Fiddler" title="Fiddler" width="30px" style="padding-right:10px;" src="./Sourses/Fiddler-Everywhere.png"></a>

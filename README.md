@@ -21,7 +21,7 @@
 
 <a href="https://github.com/nikolaiqa?tab=repositories"><img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right:7px;" src="./Sourses/Github.png"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Git" title="Git" width="40px" style="padding-right:7px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Git" title="Git" width="43px" style="padding-right:7px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="VS code" title="VS code" width="40px" style="padding-right:7px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
 

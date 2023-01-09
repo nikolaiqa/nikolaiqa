@@ -9,8 +9,8 @@
 ## Tools
 
 DB: 
-<img align="bottom" alt="MySQL" title="MySQL" width="40px" src="./Sourses/MySQL.png" />
-<img align="bottom" alt="MySQL" title="MySQL" width="40px" src="./Sourses/MySQL.png" />
+<img align="middle" alt="MySQL" title="MySQL" width="40px" src="./Sourses/MySQL.png" />
+<img align="middle" alt="MySQL" title="MySQL" width="40px" src="./Sourses/MySQL.png" />
 
 
 

@@ -8,47 +8,47 @@
 
 ## Tools
 
-<a href="https://github.com/nikolaiqa/MySQL"><img align="left" alt="MySQL" title="MySQL" width="25px" style="padding-left:0px; padding-right:5px" src="./Sourses/MySQL.png"></a>
+<a href="https://github.com/nikolaiqa/MySQL"><img align="left" alt="MySQL" title="MySQL" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="./Sourses/MySQL.png"></a>
 
-<a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%51%5(pwd%2C%5ls%2C%5mkdir%2C%5mv%2C%5rm).md"><img align="left" alt="Ubuntu" title="Ubuntu" width="25px" style="padding-left:0px; padding-right:5px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"></a>
+<a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%51%5(pwd%2C%5ls%2C%5mkdir%2C%5mv%2C%5rm).md"><img align="left" alt="Ubuntu" title="Ubuntu" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Postman" title="Postman" width="25px" style="padding-left:0px; padding-right:5px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Postman" title="Postman" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="MongoDB" title="MongoDB" width="25px" style="padding-left:0px; padding-right:5px" src="./Sourses/Mongo DB.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="MongoDB" title="MongoDB" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="./Sourses/Mongo DB.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Figma" title="Figma" width="25px" style="padding-left:0px; padding-right:5px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Figma" title="Figma" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></a>
 
-<a href="https://github.com/nikolaiqa?tab=repositories"><img align="left" alt="GitHub" title="GitHub" width="25px" style="padding-left:0px; padding-right:5px" src="./Sourses/Github.png"></a>
+<a href="https://github.com/nikolaiqa?tab=repositories"><img align="left" alt="GitHub" title="GitHub" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="./Sourses/Github.png"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Git" title="Git" width="25px" style="padding-left:0px; padding-right:5px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Git" title="Git" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="VS code" title="VS code" width="25px" style="padding-left:0px; padding-right:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="VS code" title="VS code" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Jira" title="Jira" width="25px" style="padding-left:0px; padding-right:5px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Jira" title="Jira" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Trello" title="Trello" width="25px" style="padding-left:0px; padding-right:5px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Trello" title="Trello" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Virtual Box" title="Virtual Box" width="25px" style="padding-left:0px; padding-right:5px" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Virtual Box" title="Virtual Box" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg"></a>
 
-<a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%52%5(echo%2C%5nano%2C%5cat%2C%5vim%2C%5grep).md"><img align="left" alt="Bash" title="Bash" width="25px" style="padding-left:0px; padding-right:5px" src="./Sourses/Bash_Logo_Colored.svg"></a>
+<a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%52%5(echo%2C%5nano%2C%5cat%2C%5vim%2C%5grep).md"><img align="left" alt="Bash" title="Bash" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="./Sourses/Bash_Logo_Colored.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="ADB" title="ADB" width="25px" style="padding-left:0px; padding-right:5px" src="./Sourses/ADB.png"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="ADB" title="ADB" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="./Sourses/ADB.png"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Android Studio" title="Android Studio" width="25px" style="padding-left:0px; padding-right:5px" src="./Sourses/androidstudio-original.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Android Studio" title="Android Studio" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="./Sourses/androidstudio-original.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Charles Proxy" title="Charles Proxy" width="25px" style="padding-left:0px; padding-right:5px" src="./Sourses/charlesproxyicon.svg"></a> 
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Charles Proxy" title="Charles Proxy" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="./Sourses/charlesproxyicon.svg"></a> 
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Fiddler" title="Fiddler" width="25px" style="padding-left:0px; padding-right:5px"  src="./Sourses/Fiddler-Everywhere.png"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Fiddler" title="Fiddler" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;"  src="./Sourses/Fiddler-Everywhere.png"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="DevTools" title="DevTools" width="25px" style="padding-left:0px; padding-right:5px" src="./Sourses/chrome-devtools-icon-256x256-s41ravx1.png"></a> 
+<a href="https://github.com/nikolaiqa"><img align="left" alt="DevTools" title="DevTools" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="./Sourses/chrome-devtools-icon-256x256-s41ravx1.png"></a> 
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Qase" title="Qase" width="25px" style="padding-left:0px; padding-right:5px" src="./Sourses/qase.png"></a> 
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Qase" title="Qase" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="./Sourses/qase.png"></a> 
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="TestRail" title="TestRail" width="25px" style="padding-left:0px; padding-right:5px" src="./Sourses/TestRail.png"></a> 
+<a href="https://github.com/nikolaiqa"><img align="left" alt="TestRail" title="TestRail" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="./Sourses/TestRail.png"></a> 
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="SoapUI" title="SoapUI" width="25px" style="padding-left:0px; padding-right:5px" src="./Sourses/SoapUI.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="SoapUI" title="SoapUI" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="./Sourses/SoapUI.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Git Bash" title="Git Bash" width="25px" style="padding-left:0px; padding-right:5px" src="./Sourses/GitBash.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Git Bash" title="Git Bash" width="25px" style="padding-left:0px; padding-right:5px; padding-bottom:10px;" src="./Sourses/GitBash.svg"></a>
 
 </p>
 

@@ -45,4 +45,4 @@
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="DevTools" title="DevTools" width="35px" style="padding-right:7px;" src="./Sourses/chrome-devtools-icon-256x256-s41ravx1.png"></a> 
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Qase" title="Qase" width="50px" style="padding-right:7px;" src="./Sourses/qase.png"></a> 
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Qase" title="Qase" width="35px" style="padding-right:7px;" src="./Sourses/qase.png"></a> 

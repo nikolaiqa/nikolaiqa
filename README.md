@@ -50,3 +50,5 @@
 <a href="https://github.com/nikolaiqa"><img align="left" alt="TestRail" title="TestRail" width="40px" style="padding-right:7px;" src="./Sourses/TestRail.png"></a> 
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="SoapUI" title="SoapUI" width="40px" style="padding-right:7px;" src="./Sourses/SoapUI.svg"></a>
+
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Git Bash" title="Git Bash" width="40px" style="padding-right:7px;" src="./Sourses/GitBash.svg"></a>

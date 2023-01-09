@@ -33,7 +33,7 @@
 
 <a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%202%20(echo%2C%20nano%2C%20cat%2C%20vim%2C%20grep).md"><img align="left" alt="Bash" title="Bash" width="40px" style="padding-right:7px;" src="./Sourses/Bash_Logo_Colored.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="ADB" title="ADB" width="40px" style="padding-right:7px;" src="./Sourses/adb.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="ADB" title="ADB" width="40px" style="padding-right:7px;" src="./Sourses/ADB.png"></a>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Android Studio" title="Android Studio" width="40px" style="padding-right:7px;" src="./Sourses/androidstudio-original.svg"></a>
 </br>

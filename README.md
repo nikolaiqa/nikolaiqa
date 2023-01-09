@@ -7,7 +7,10 @@
 ## Сheck out my [resume](https://drive.google.com/file/d/13ccjGmmKePU6CzG8RiyijSYLzqPSi40-/view?usp=sharing "ru-version")
 
 ## Tools
-### DB: <a href="https://github.com/nikolaiqa/MySQL"><img align="right" alt="MySQL" title="MySQL" width="40px" src="./Sourses/MySQL.png"></a>
+
+DB: 
+<img align="bottom" alt="MySQL" title="MySQL" width="40px" src="./Sourses/MySQL.png" />
+<img align="bottom" alt="MySQL" title="MySQL" width="40px" src="./Sourses/MySQL.png" />
 
 
 

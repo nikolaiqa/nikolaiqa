@@ -34,7 +34,7 @@
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Android Studio" title="Android Studio" width="40px" src="./Sourses/androidstudio-original.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Virtual Box" title="Virtual Box" width="40px" src="./Sourses/VirtualBox.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="VirtualBox" title="VirtualBox" width="40px" src="./Sourses/VirtualBox.svg"></a>
 
 <a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%51%5(pwd%2C%5ls%2C%5mkdir%2C%5mv%2C%5rm).md"><img align="left" alt="Ubuntu" title="Ubuntu" width="40px" src="./Sourses/Ubuntu.svg"></a>
 
@@ -46,7 +46,7 @@
 
 <a href="https://github.com/nikolaiqa?tab=repositories"><img align="left" alt="GitHub" title="GitHub" width="40px" src="./Sourses/Github.png"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="VS code" title="VS code" width="40px" src="./Sourses/Vscode.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="VS Csode" title="VS Code" width="40px" src="./Sourses/Vscode.svg"></a>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Figma" title="Figma" width="40px" src="./Sourses/Figma.svg"></a>
 

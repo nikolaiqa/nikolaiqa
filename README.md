@@ -10,9 +10,9 @@
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Jira" title="Jira" width="40px" src="./Sourses/Jira.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Trello" title="Trello" width="40px" src="./Sourses/Trello.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Trello" title="Trello" width="38px" src="./Sourses/Trello.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Qase" title="Qase" width="40px" src="./Sourses/qase.png"></a> 
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Qase" title="Qase" width="38px" src="./Sourses/qase.png"></a> 
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="TestRail" title="TestRail" width="40px" src="./Sourses/TestRail.png"></a> 
 

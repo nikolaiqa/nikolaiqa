@@ -36,7 +36,7 @@
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Android Studio" title="Android Studio" width="40px" src="./Sourses/androidstudio-original.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Charles Proxy" title="Charles Proxy" width="40px" src="./Sourses/Charles Proxy.png"></a> 
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Charles Proxy" title="Charles Proxy" width="40px" src="./Sourses/charlesproxyicon.svg"></a> 
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Fiddler" title="Fiddler" width="40px"  src="./Sourses/Fiddler-Everywhere.png"></a>
 

@@ -7,42 +7,7 @@
 ## Сheck out my [resume](https://drive.google.com/file/d/13ccjGmmKePU6CzG8RiyijSYLzqPSi40-/view?usp=sharing "ru-version")
 
 ## Tools
-
-DB: 
-<img align="middle" alt="MySQL" title="MySQL" width="40px" src="./Sourses/MySQL.png" />
-<img align="middle" alt="MySQL" title="MySQL" width="40px" src="./Sourses/MySQL.png" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
+<p>
 <a href="https://github.com/nikolaiqa/MySQL"><img align="left" alt="MySQL" title="MySQL" width="40px" src="./Sourses/MySQL.png"></a>
 
 <a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%201%20(pwd%2C%20ls%2C%20mkdir%2C%20mv%2C%20rm).md"><img align="left" alt="Ubuntu" title="Ubuntu" width="40px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"></a>
@@ -85,11 +50,6 @@ DB:
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Git Bash" title="Git Bash" width="40px" src="./Sourses/GitBash.svg"></a>
 
-<br/>
-<br/>
-<br/>
-<br/>
-
+</p>
 
 ### Next сhapter
-```

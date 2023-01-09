@@ -1,8 +1,8 @@
 [![logo](https://i.ibb.co/mttg51Q/logo.gif "nikolaiqa")](https://github.com/nikolaiqa)
 
-# **`Hi there!`**
+# **`Hi there!`, I'm Nikolai and you can learn more information about me and tools I use below**
  
-## My name is Nikolai and you can learn more information about me and tools I use below
+## 
 
 ## Сheck out my [resume](https://drive.google.com/file/d/13ccjGmmKePU6CzG8RiyijSYLzqPSi40-/view?usp=sharing "ru-version")
 

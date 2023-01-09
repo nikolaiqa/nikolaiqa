@@ -20,7 +20,7 @@
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="SoapUI" title="SoapUI" width="40px" src="./Sourses/SoapUI.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Charles Proxy" title="Charles Proxy" width="35px" src="./Sourses/Charles Proxy.svg"></a> 
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Charles Proxy" title="Charles Proxy" width="38px" src="./Sourses/Charles Proxy.svg"></a> 
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Fiddler" title="Fiddler" width="40px"  src="./Sourses/Fiddler-Everywhere.png"></a>
 

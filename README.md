@@ -10,25 +10,25 @@
 
 <a href="https://github.com/nikolaiqa/MySQL"><img align="left" alt="MySQL" title="MySQL" width="40px" src="./Sourses/MySQL.png"></a>
 
-<a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%51%5(pwd%2C%5ls%2C%5mkdir%2C%5mv%2C%5rm).md"><img align="left" alt="Ubuntu" title="Ubuntu" width="40px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"></a>
+<a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%51%5(pwd%2C%5ls%2C%5mkdir%2C%5mv%2C%5rm).md"><img align="left" alt="Ubuntu" title="Ubuntu" width="40px" src="./Sourses/Ubuntu.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Postman" title="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Postman" title="Postman" width="40px" src="./Sourses/Postman.svg"></a>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="MongoDB" title="MongoDB" width="40px" src="./Sourses/Mongo DB.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Figma" title="Figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Figma" title="Figma" width="40px" src="./Sourses/Figma.svg"></a>
 
 <a href="https://github.com/nikolaiqa?tab=repositories"><img align="left" alt="GitHub" title="GitHub" width="40px" src="./Sourses/Github.png"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Git" title="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Git" title="Git" width="40px" src="./Sourses/Git.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="VS code" title="VS code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="VS code" title="VS code" width="40px" src="./Sourses/Vscode.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Jira" title="Jira" width="40px" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Jira" title="Jira" width="40px" src="./Sourses/Jira.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Trello" title="Trello" width="40px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Trello" title="Trello" width="40px" src="./Sourses/Trello.svg"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="Virtual Box" title="Virtual Box" width="40px" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="Virtual Box" title="Virtual Box" width="40px" src="./Sourses/VirtualBox.svg"></a>
 
 <a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%52%5(echo%2C%5nano%2C%5cat%2C%5vim%2C%5grep).md"><img align="left" alt="Bash" title="Bash" width="40px" src="./Sourses/Bash_Logo_Colored.svg"></a>
 

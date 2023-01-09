@@ -2,7 +2,7 @@
 
 # **`Hi there!`**
  
-## My name is Nikolai and you can learn more information about me and tools I use below:
+## My name is Nikolai and you can learn more information about me and tools I use below
 
 ## Сheck out my [resume](https://drive.google.com/file/d/13ccjGmmKePU6CzG8RiyijSYLzqPSi40-/view?usp=sharing "ru-version")
 
@@ -48,3 +48,5 @@
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Qase" title="Qase" width="40px" style="padding-right:7px;" src="./Sourses/qase.png"></a> 
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="TestRail" title="TestRail" width="40px" style="padding-right:7px;" src="./Sourses/TestRail.png"></a> 
+
+<a href="https://github.com/nikolaiqa"><img align="left" alt="SoapUI" title="SoapUI" width="40px" style="padding-right:7px;" src="./Sourses/SoapUI.svg"></a>

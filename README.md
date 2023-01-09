@@ -19,7 +19,7 @@
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Figma" title="Figma" width="40px" style="padding-right:7px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></a>
 
-<a href="https://github.com/nikolaiqa?tab=repositories"><img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right:7px;" src="./Sourses/Github.svg"></a>
+<a href="https://github.com/nikolaiqa?tab=repositories"><img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right:7px;" src="./Sourses/Github.png"></a>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Git" title="Git" width="40px" style="padding-right:7px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
 

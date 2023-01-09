@@ -8,8 +8,7 @@
 
 ## Tools  
 
-
-
+<div>
 
 <a href="https://github.com/nikolaiqa/MySQL"><img align="left" alt="MySQL" title="MySQL" width="40px" style="margin-bottom:60%" src="./Sourses/MySQL.png"></a>
 
@@ -53,6 +52,7 @@
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Git Bash" title="Git Bash" width="40px" style="margin-bottom:60%" src="./Sourses/GitBash.svg"></a>
 
+</div>
 
 
 ### Next сhapter

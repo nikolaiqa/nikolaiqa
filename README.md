@@ -46,7 +46,7 @@
 
 <a href="https://github.com/nikolaiqa?tab=repositories"><img align="left" alt="GitHub" title="GitHub" width="40px" src="./Sourses/Github.png"></a>
 
-<a href="https://github.com/nikolaiqa"><img align="left" alt="VS Csode" title="VS Code" width="40px" src="./Sourses/VScode.svg"></a>
+<a href="https://github.com/nikolaiqa"><img align="left" alt="VS Code" title="VS Code" width="40px" src="./Sourses/VScode.svg"></a>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Figma" title="Figma" width="40px" src="./Sourses/Figma.svg"></a>
 

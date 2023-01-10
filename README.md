@@ -8,6 +8,8 @@
 
 ## Tools
 
+<p align="left">
+
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Jira" title="Jira" width="40px" src="./Sourses/Jira.svg"></a>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Trello" title="Trello" width="38px" src="./Sourses/Trello.svg"></a>
@@ -35,8 +37,6 @@
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Android Studio" title="Android Studio" width="40px" src="./Sourses/AndroidStudio.svg"></a>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="VirtualBox" title="VirtualBox" width="40px" src="./Sourses/VirtualBox.svg"></a>
-<br>
-<br>
 
 <a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%201%20(pwd%2C%20ls%2C%20mkdir%2C%20mv%2C%20rm).md"><img align="left" alt="Ubuntu" title="Ubuntu" width="40px" src="./Sourses/Ubuntu.svg"></a>
 
@@ -51,6 +51,11 @@
 <a href="https://github.com/nikolaiqa"><img align="left" alt="VS Code" title="VS Code" width="40px" src="./Sourses/VScode.svg"></a>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Figma" title="Figma" width="40px" src="./Sourses/Figma.svg"></a>
+
+</p>
+
+
+
 
 </br>
 </br>

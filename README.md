@@ -1,3 +1,8 @@
+<!-- <p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
+</p> -->
+
 [![logo](https://i.ibb.co/mttg51Q/logo.gif "nikolaiqa")](https://github.com/nikolaiqa)
 
 # **`Hi there!`**

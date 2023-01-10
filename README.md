@@ -38,9 +38,9 @@
 <br>
 <br>
 
-<a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%51%5(pwd%2C%5ls%2C%5mkdir%2C%5mv%2C%5rm).md"><img align="left" alt="Ubuntu" title="Ubuntu" width="40px" src="./Sourses/Ubuntu.svg"></a>
+<a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%201%20(pwd%2C%20ls%2C%20mkdir%2C%20mv%2C%20rm).md"><img align="left" alt="Ubuntu" title="Ubuntu" width="40px" src="./Sourses/Ubuntu.svg"></a>
 
-<a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%52%5(echo%2C%5nano%2C%5cat%2C%5vim%2C%5grep).md"><img align="left" alt="Bash" title="Bash" width="40px" src="./Sourses/Bash.svg"></a>
+<a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%202%20(echo%2C%20nano%2C%20cat%2C%20vim%2C%20grep).md"><img align="left" alt="Bash" title="Bash" width="40px" src="./Sourses/Bash.svg"></a>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Git Bash" title="Git Bash" width="40px" src="./Sourses/GitBash.svg"></a>
 

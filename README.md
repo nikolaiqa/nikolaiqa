@@ -35,6 +35,8 @@
 <a href="https://github.com/nikolaiqa"><img align="left" alt="Android Studio" title="Android Studio" width="40px" src="./Sourses/AndroidStudio.svg"></a>
 
 <a href="https://github.com/nikolaiqa"><img align="left" alt="VirtualBox" title="VirtualBox" width="40px" src="./Sourses/VirtualBox.svg"></a>
+<br>
+<br>
 
 <a href="https://github.com/nikolaiqa/Ubuntu/blob/main/Task%51%5(pwd%2C%5ls%2C%5mkdir%2C%5mv%2C%5rm).md"><img align="left" alt="Ubuntu" title="Ubuntu" width="40px" src="./Sourses/Ubuntu.svg"></a>
 

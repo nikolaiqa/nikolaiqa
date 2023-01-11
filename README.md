@@ -16,7 +16,6 @@
 
 <h2 align="left"> Skills in some tools: </h2>
 
-- <a href="https://github.com/nikolaiqa/MySQL" title="Click" target="_blank"> MySQL </a>
-
+<h3 align="center"> <a href="https://github.com/nikolaiqa/MySQL" title="Click to jump" target="_blank"> MySQL </a> </h3> 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)

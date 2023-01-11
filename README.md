@@ -3,16 +3,11 @@
 
 [![logo](https://i.ibb.co/mttg51Q/logo.gif "nikolaiqa")](https://github.com/nikolaiqa)
 
-<h1 align="center"> Hi there 👋, I'm Nikolai </h1>
+<h1 align="center"> Hi there 👋 </h1>
 
-<h2 align="center"> You can learn more information about me and tools I use below </h2>
+<h2 align="center"> I'm Nikolai and you can learn more information about me and tools I use below </h2>
  
-## 
-
-## Сheck out my [resume](https://drive.google.com/file/d/13ccjGmmKePU6CzG8RiyijSYLzqPSi35-/view?usp=sharing "ru-version")
-
-
-<h2 align="left"> Сheck out my <a href="https://github.com/nikolaiqa" title="ru-version"> resume </a> </h2>
+<h2 align="left"> Сheck out my <a href="https://github.com/nikolaiqa" title="ru-version" target="_blank"> resume </a> </h2>
 
 
 

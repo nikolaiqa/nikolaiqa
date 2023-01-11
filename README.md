@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hi there 👋 </h1>
 
-<h2 align="center"> I'm Nikolai and you can learn more information about me and tools I use below </h2>
+<h2 align="center"> I'm Nikolai and you may find out more information about me and tools I use below </h2>
  
  <br>
  

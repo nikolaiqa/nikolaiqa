@@ -40,7 +40,7 @@
 
 <h3 align="left"> Latest tweets </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.twitter.com/nikolaiqa"><img alt="Twitter" title="Click to read more" src="https://github-readme-twitter-gazf.vercel.app/api?id=nikolaiqa&layout=wide&show_reply=off&show_retweet=off"/></a>
 </p>
 

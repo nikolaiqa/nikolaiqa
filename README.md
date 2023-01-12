@@ -33,8 +33,8 @@
 
 <h3 align="left"> Certificates </h3>
 
-<p align="left" title="Certificates"> 
-<a href="https://drive.google.com/file/d/1Ga98qPr5QC8AUFfWdyeByw9MNOGtNIDQ/view?usp=sharing"><img  alt="Brunoyam" title="Click to check out" width="170" src="./Sourses/Brunoyam.png"/></a>
+<p align="center" title="Certificates"> 
+<a href="https://drive.google.com/file/d/1Ga98qPr5QC8AUFfWdyeByw9MNOGtNIDQ/view?usp=sharing"><img  alt="Brunoyam" title="Click to check out" width="170" src="./Sourses/Brunoyam.png"/></a> <a href="https://drive.google.com/file/d/1Ga98qPr5QC8AUFfWdyeByw9MNOGtNIDQ/view?usp=sharing"><img  alt="Brunoyam" title="Click to check out" width="170" src="./Sourses/Brunoyam.png"/></a> <a href="https://drive.google.com/file/d/1Ga98qPr5QC8AUFfWdyeByw9MNOGtNIDQ/view?usp=sharing"><img  alt="Brunoyam" title="Click to check out" width="170" src="./Sourses/Brunoyam.png"/></a>
 </p>
 
 

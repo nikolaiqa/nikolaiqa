@@ -1,6 +1,7 @@
 <!---->
 
-[![logo](https://i.ibb.co/mttg51Q/logo.gif "nikolaiqa")](https://github.com/nikolaiqa)
+<p align="center"> <a href="https://github.com/nikolaiqa"><img  alt="Logo" title="Test hard - go QA" height="80" src="./Sourses/Logo.gif"/> </a> </p>
+
 
 <h1 align="center"> Hi there 👋 </h1>
 

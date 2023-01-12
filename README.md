@@ -29,7 +29,6 @@
 <a href="https://github.com/nikolaiqa/MySQL"><img  alt="MySQL" title="Click and jump to a repository" height="25" src="https://img.shields.io/badge/MySQL-205270"/></a> <a href="https://github.com/nikolaiqa/Ubuntu-Bash"><img  alt="Ubuntu/Bash" title="Click and jump to a repository" height="25" src="https://img.shields.io/badge/Ubuntu/Bash-CC5329"/></a>
 </p>
 
-![](https://raw.githubusercontent.com/nikolaiqa/github-stats-transparent/output/generated/overview.svg)
 
 
 

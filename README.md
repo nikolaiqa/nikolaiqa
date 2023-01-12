@@ -9,8 +9,6 @@
 
 <h2 align="center"> I'm Nikolai and you can learn more information about me and tools I use beneath </h2>
  
- <br>
- 
  ---
  
 <h3 align="left"> Сheck out my <a href="https://drive.google.com/file/d/13ccjGmmKePU6CzG8RiyijSYLzqPSi40-/view?usp=share_link" title="ru-version" target="_blank"> resume </a> </h3>

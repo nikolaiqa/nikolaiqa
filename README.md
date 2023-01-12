@@ -23,10 +23,10 @@
 
 ---
 
-<h3 align="left"> Click on the badges below to see my skills in some tools </h3>
+<h3 align="left"> Click on badges below to see my skills in some tools </h3>
 
 <p align="left" title="Skills in tools"> 
-<a href="https://github.com/nikolaiqa/MySQL"><img  alt="MySQL" title="Click and jump to a repository" height="25" src="https://img.shields.io/badge/MySQL-205270"/></a> <a href="https://github.com/nikolaiqa/Ubuntu-Bash"><img  alt="Ubuntu/Bash" title="Click and jump to a repository" height="25" src="https://img.shields.io/badge/Ubuntu/Bash-CC5329"/></a>
+<a href="https://github.com/nikolaiqa/MySQL"><img  alt="MySQL" title="Click and jump to a repository" height="25" src="https://img.shields.io/badge/MySQL-205270"/></a> <a href="https://github.com/nikolaiqa/Ubuntu-Bash"><img  alt="Ubuntu/Bash" title="Click and jump to a repository" height="25" src="https://img.shields.io/badge/Ubuntu/Bash-76314A"/></a>
 </p>
 
 ---

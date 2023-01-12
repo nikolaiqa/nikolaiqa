@@ -8,7 +8,9 @@
  
  <br>
  
-<h2 align="left"> Сheck out my <a href="https://drive.google.com/file/d/13ccjGmmKePU6CzG8RiyijSYLzqPSi40-/view?usp=share_link" title="ru-version" target="_blank"> resume </a> </h2>
+<h3 align="left"> Сheck out my <a href="https://drive.google.com/file/d/13ccjGmmKePU6CzG8RiyijSYLzqPSi40-/view?usp=share_link" title="ru-version" target="_blank"> resume </a> </h3>
+
+---
 
 <h3 align="left"> Tools: </h3>
 

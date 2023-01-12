@@ -24,7 +24,9 @@
 <h3 align="left"> Skills in some tools: </h3>
 
 
-<p align="left"> <a href="https://github.com/nikolaiqa/MySQL"><img  alt="MySQL" title="Skills in MySQL" height="25" src="https://img.shields.io/badge/MySQL-51789D"/> </a> </p>
+<p align="left"> 
+<a href="https://github.com/nikolaiqa/MySQL"><img  alt="MySQL" title="Click to jump" height="25" src="https://img.shields.io/badge/MySQL-51789D"/> </a> <a href="https://github.com/nikolaiqa/Ubuntu-Bash"><img  alt="Ubuntu/Bash" title="Click to jump" height="25" src="https://img.shields.io/badge/Ubuntu/Bash-CC5329"/> </a>
+</p>
 
 
 <h3 align="left"> <a href="https://github.com/nikolaiqa/MySQL" title="Click to jump" target="_blank"> MySQL </a> </h3>

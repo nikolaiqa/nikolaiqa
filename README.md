@@ -1,6 +1,6 @@
 <!---->
 
-<p align="center"> <a href="https://github.com/nikolaiqa"><img  alt="Logo" title="Test hard - go QA" height="80" src="./Sourses/Logo.gif"/> </a> </p>
+<p align="center"> <a href="https://github.com/nikolaiqa"><img  alt="Logo" title="Test hard - go QA" height="100" src="./Sourses/Logo.gif"/> </a> </p>
 
 
 <h1 align="center"> Hi there 👋 </h1>

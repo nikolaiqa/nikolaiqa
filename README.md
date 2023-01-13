@@ -38,11 +38,48 @@
 ---
 
 <h3 align="left"> Ways to contact me </h3>
-<p align="left">
-<a href="https://www.twitter.com/nikolaiqa"><img alt="Twitter" title="Click to follow" width="40" src="./Sourses/Twitter.svg"/></a> <a href="https://www.twitter.com/nikolaiqa"><img alt="Gmail" title="Click to send a message" width="40" src="./Sourses/Gmail.png"/></a>
+<p align="center">
+<a href="https://www.twitter.com/nikolaiqa"><img alt="Twitter" title="Click to follow" width="40" src="./Sourses/Twitter.svg"/></a> <a href="mailto:inikolaizhuravlev@gmail.com"><img alt="Gmail" title="Click to send a message" width="40" src="./Sourses/Gmail.png"/></a> <a href="www.linkedin.com/in/nikolqa"><img alt="Linkedin" title="Click to connect" width="40" src="./Sourses/LD.svg"/></a>
 </p>
 
 ---
+
+
+
+<h3 align="left"> Ways to contact me </h3>
+<p align="center">
+<a href="https://www.twitter.com/nikolaiqa"><img alt="Twitter" title="Click to follow" width="55" src="./Sourses/icons8-twitter.svg"/></a> <a href="mailto:inikolaizhuravlev@gmail.com"><img alt="Gmail" title="Click to send a message" width="55" src="./Sourses/icons8-gmail.svg"/></a> <a href="www.linkedin.com/in/nikolqa"><img alt="Linkedin" title="Click to connect" width="55" src="./Sourses/icons8-linkedin.svg"/></a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="left"> Latest tweets </h3>
 <p align="left">

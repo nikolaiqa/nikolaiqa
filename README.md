@@ -31,8 +31,8 @@
 
 <h3 align="left"> Certificates </h3>
 <p align="center"> 
-<a href="https://drive.google.com/file/d/1Ga98qPr5QC8AUFfWdyeByw9MNOGtNIDQ/view?usp=sharing"><img  alt="Brunoyam" title="Click to look closer" height="350" style="padding-left:7px" src="./Sourses/Brunoyam.png"/></a> <a href="https://drive.google.com/file/d/1610hHlcI4FKtpIDYmi8QID3lRnXCpAOD/view?usp=sharing"><img  alt="EFSET" title="Click to look closer" height="350" style="padding-left:7px" src="./Sourses/EF SET.png"/></a> 
-<a href="https://drive.google.com/file/d/1QlStywDGtjt7Y2Yn8X4TIp1GoyF04cKz/view?usp=sharing"><img  alt="BUSUU" title="Click to look closer" height="350" style="padding-left:7px" src="./Sourses/Busuu.png"/></a> 
+<a href="https://drive.google.com/file/d/1Ga98qPr5QC8AUFfWdyeByw9MNOGtNIDQ/view?usp=sharing"><img  alt="Brunoyam" title="Click to look closer" height="345" style="padding-left:7px" src="./Sourses/Brunoyam.png"/></a> <a href="https://drive.google.com/file/d/1610hHlcI4FKtpIDYmi8QID3lRnXCpAOD/view?usp=sharing"><img  alt="EFSET" title="Click to look closer" height="345" style="padding-left:7px" src="./Sourses/EF SET.png"/></a> 
+<a href="https://drive.google.com/file/d/1QlStywDGtjt7Y2Yn8X4TIp1GoyF04cKz/view?usp=sharing"><img  alt="BUSUU" title="Click to look closer" height="345" style="padding-left:7px" src="./Sourses/Busuu.png"/></a> 
 </p>
 
 ---
@@ -45,10 +45,7 @@
 ---
 
 <p align="center">
-<a href="https://www.twitter.com/nikolaiqa"><img alt="Twitter" title="Click to follow" width="50" src="./Sourses/Twitter.svg"/></a> <a href="mailto:inikolaizhuravlev@gmail.com"><img alt="Gmail" title="Click to send a message" width="50" src="./Sourses/Gmail.svg"/></a> <a href="https://www.linkedin.com/in/nikolqa/"><img alt="Linkedin" title="Click to connect" width="50" src="./Sourses/Linkedin.svg"/></a> <a href="https://t.me/INikolaiZhuravlev" target="_blank"><img alt="Telegram" title="Click to chat" width="50" src="./Sourses/Telegram.svg"/></a>
+<a href="https://www.twitter.com/nikolaiqa"><img alt="Twitter" title="Click to follow" width="45" src="./Sourses/Twitter.svg"/></a> <a href="mailto:inikolaizhuravlev@gmail.com"><img alt="Gmail" title="Click to send a message" width="45" src="./Sourses/Gmail.svg"/></a> <a href="https://www.linkedin.com/in/nikolqa/"><img alt="Linkedin" title="Click to connect" width="45" src="./Sourses/Linkedin.svg"/></a> <a href="https://t.me/INikolaiZhuravlev" target="_blank"><img alt="Telegram" title="Click to chat" width="45" src="./Sourses/Telegram.svg"/></a>
 </p>
-
-
-
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)

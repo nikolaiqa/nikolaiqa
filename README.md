@@ -9,7 +9,7 @@
 
 <h2 align="center"> I'm Nikolai and you can learn more information about me and tools I use beneath </h2>
  
-
+<br>
  
 <h3 align="left"> Сheck out my <a href="https://drive.google.com/file/d/13ccjGmmKePU6CzG8RiyijSYLzqPSi40-/view?usp=share_link" title="ru-version" target="_blank"> resume </a> </h3>
 
@@ -38,12 +38,15 @@
 ---
 
 <h3 align="left"> Ways to contact me </h3>
+<p align="left">
+<a href="https://www.twitter.com/nikolaiqa"><img alt="Twitter" title="Click to follow" width="40" src="./Sourses/Twitter.svg"/></a> <a href="https://www.twitter.com/nikolaiqa"><img alt="Gmail" title="Click to send a message" width="40" src="./Sourses/Gmail.png"/></a>
+</p>
 
 ---
 
 <h3 align="left"> Latest tweets </h3>
 <p align="left">
-<a href="https://www.twitter.com/nikolaiqa"><img alt="Twitter" title="Click to read more" src="https://github-readme-twitter-gazf.vercel.app/api?id=nikolaiqa&layout=wide&show_reply=off&show_retweet=off"/></a>
+<a href="https://www.twitter.com/nikolaiqa"><img alt="Latest tweets" title="Click to read more" src="https://github-readme-twitter-gazf.vercel.app/api?id=nikolaiqa&layout=wide&show_reply=off&show_retweet=off"/></a> 
 </p>
 
 

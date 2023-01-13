@@ -42,7 +42,7 @@
 <a href="https://www.twitter.com/nikolaiqa"><img alt="Latest tweets" title="Click to read more" src="https://github-readme-twitter-gazf.vercel.app/api?id=nikolaiqa&layout=wide&show_reply=off&show_retweet=off"/></a> 
 </p>
 
----
+<br>
 
 <p align="center">
 <a href="https://www.twitter.com/nikolaiqa"><img alt="Twitter" title="Click to follow" width="45" src="./Sourses/Twitter.svg"/></a> <a href="mailto:inikolaizhuravlev@gmail.com"><img alt="Gmail" title="Click to send a message" width="45" src="./Sourses/Gmail.svg"/></a> <a href="https://www.linkedin.com/in/nikolqa/"><img alt="Linkedin" title="Click to connect" width="45" src="./Sourses/Linkedin.svg"/></a> <a href="https://t.me/INikolaiZhuravlev" target="_blank"><img alt="Telegram" title="Click to chat" width="45" src="./Sourses/Telegram.svg"/></a>

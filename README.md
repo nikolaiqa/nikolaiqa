@@ -1,6 +1,4 @@
-<!---
-<p></p>
- ---->
+<!-- -->
 
 <p align="center"> 
 <a href="https://github.com/nikolaiqa"><img  alt="Logo" title="Test hard - go QA" height="100" src="./Sourses/Logo.gif"/></a> 
@@ -33,8 +31,8 @@
 
 <h3 align="left"> Certificates </h3>
 <p align="center"> 
-<a href="https://drive.google.com/file/d/1Ga98qPr5QC8AUFfWdyeByw9MNOGtNIDQ/view?usp=sharing"><img  alt="Brunoyam" title="Click to look closer" height="360" style="padding-left:7px" src="./Sourses/Brunoyam.png"/></a> <a href="https://drive.google.com/file/d/1610hHlcI4FKtpIDYmi8QID3lRnXCpAOD/view?usp=sharing"><img  alt="EFSET" title="Click to look closer" height="360" style="padding-left:7px" src="./Sourses/EF SET.png"/></a> 
-<a href="https://drive.google.com/file/d/1QlStywDGtjt7Y2Yn8X4TIp1GoyF04cKz/view?usp=sharing"><img  alt="BUSUU" title="Click to look closer" height="360" style="padding-left:7px" src="./Sourses/Busuu.png"/></a> 
+<a href="https://drive.google.com/file/d/1Ga98qPr5QC8AUFfWdyeByw9MNOGtNIDQ/view?usp=sharing"><img  alt="Brunoyam" title="Click to look closer" height="370" style="padding-left:7px" src="./Sourses/Brunoyam.png"/></a> <a href="https://drive.google.com/file/d/1610hHlcI4FKtpIDYmi8QID3lRnXCpAOD/view?usp=sharing"><img  alt="EFSET" title="Click to look closer" height="370" style="padding-left:7px" src="./Sourses/EF SET.png"/></a> 
+<a href="https://drive.google.com/file/d/1QlStywDGtjt7Y2Yn8X4TIp1GoyF04cKz/view?usp=sharing"><img  alt="BUSUU" title="Click to look closer" height="370" style="padding-left:7px" src="./Sourses/Busuu.png"/></a> 
 </p>
 
 ---

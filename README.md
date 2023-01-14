@@ -33,9 +33,9 @@
 
 <h3 align="left"> Certificates and Diploma </h3>
 <p align="center"> 
-<a href="https://drive.google.com/file/d/1Ga98qPr5QC8AUFfWdyeByw9MNOGtNIDQ/view?usp=sharing"><img  alt="Brunoyam" title="Click to look closer" height="410" width="277" style="padding-left:7px" src="./Sourses/Brunoyam.png"/></a>
-<a href="https://drive.google.com/file/d/1VudplNUs8scV-xMf1p951E-lJW7szYJG/view?usp=sharing"><img  alt="Diploma" title="Click to look closer" height="410" width="277" style="padding-left:7px" src="./Sourses/Diploma.png"/></a>
-<a href="https://drive.google.com/file/d/1610hHlcI4FKtpIDYmi8QID3lRnXCpAOD/view?usp=sharing"><img  alt="EFSET" title="Click to look closer" height="410" width="277" style="padding-left:7px" src="./Sourses/EF SET.png"/></a>
+<a href="https://drive.google.com/file/d/1Ga98qPr5QC8AUFfWdyeByw9MNOGtNIDQ/view?usp=sharing"><img  alt="Brunoyam" title="Click to look closer" height="410" width="279" style="padding-left:7px" src="./Sourses/Brunoyam.png"/></a>
+<a href="https://drive.google.com/file/d/1VudplNUs8scV-xMf1p951E-lJW7szYJG/view?usp=sharing"><img  alt="Diploma" title="Click to look closer" height="410" width="279" style="padding-left:7px" src="./Sourses/Diploma.png"/></a>
+<a href="https://drive.google.com/file/d/1610hHlcI4FKtpIDYmi8QID3lRnXCpAOD/view?usp=sharing"><img  alt="EFSET" title="Click to look closer" height="410" width="279" style="padding-left:7px" src="./Sourses/EF SET.png"/></a>
 </p>
 
 ---

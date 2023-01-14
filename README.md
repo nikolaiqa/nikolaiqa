@@ -13,7 +13,7 @@
  
 <br>
  
-<h3 align="left"> Сheck out my <a href="https://drive.google.com/file/d/1147r3TfO2HqyjrZ0IgKLKwnz8Yv-4pr5/view?usp=sharing" title="ru-version" target="_blank"> resume </a> </h3>
+<h3 align="left"> Сheck out my <a href="https://drive.google.com/file/d/1vd_rGCR4KjFV_-Y1SQRk6pAwmtjVsFWZ/view?usp=share_link" title="ru-version" target="_blank"> resume </a> </h3>
 
 ---
 
